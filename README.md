@@ -12,8 +12,8 @@ Elic M. Weitzel
   - Data (NISP, MNI, and weight) on taxonomic abundance of relevant faunal species in southern New England
       - BlockIsland.csv (data from Bellantoni 1987)
       - GreenwichMonhantic.csv (data from Bernstein 1993 and Vasta 2007)
-  - R Function for generating confidence intervals around abundance index values based on bootstrapping
-      - Weitzel_EnvReboundChp_function.R
+  - R Function for generating a 95% confidence interval around an abundance index value based on iterative sampling from bone counts
+      - Weitzel_EnvReboundChp_Function.R
   - R Script for generating Figures 1-6 
       - Weitzel_EnvReboundChp_Figures.R
 
