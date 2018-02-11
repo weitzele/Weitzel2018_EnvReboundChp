@@ -13,6 +13,6 @@ Elic M. Weitzel
       - BlockIsland.csv
       - GreenwichMonhantic.csv
   - R Function for generating confidence intervals around abundance index values based on bootstrapping
-      - Weitzel_EnvReboundChp_function
+      - Weitzel_EnvReboundChp_function.R
   - R Script for generating Figures 1-6 
-      - Weitzel_EnvReboundChp_Figures
+      - Weitzel_EnvReboundChp_Figures.R
